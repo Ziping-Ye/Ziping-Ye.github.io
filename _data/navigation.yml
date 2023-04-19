@@ -1,22 +1,28 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Research Experience"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Leadership and Civic Engagement Experience"
+    url: /publications/
+
+  - title: "Teaching and Mentoring Experience"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Software Projects"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Presentation"
     url: /portfolio/
+
+  - title: "Honors and Awards"
+    url: /publications/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
   # - title: "CV"
   #   url: /cv/
     
-  - title: "Guide"
+  - title: "News"
     url: /markdown/
