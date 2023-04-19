@@ -1,5 +1,5 @@
 ---
-title: "Researcb experience 1"
+title: "Research experience 1"
 collection: research
 type: "undergraduate researcher"
 permalink: /research/research1

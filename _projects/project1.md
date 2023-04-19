@@ -1,15 +1,20 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+title: "Project #1"
+collection: project
+type: "This is the first project"
+permalink: /teaching/project1
+venue: "Pennsylvania State University, Department of Computer Science and Engineering   "
+date: 2014-01-01
+location: "State College, Pennsylvania, United States"
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+This is a description of a teaching experience. You can use markdown like any other post.
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
