@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate teaching assistant"
 permalink: /teaching/teaching1
 venue: "University 1, Department"
 date: 2014-01-01
