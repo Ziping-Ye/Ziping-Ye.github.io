@@ -4,7 +4,7 @@ collection: research
 type: "undergraduate researcher"
 permalink: /research/research1
 venue: "University 1, Department"
-date: 2014-01-01
+# date: 2014-01-01
 location: "City, Country"
 ---
 
