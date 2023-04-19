@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ziping Ye Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of Ziping Ye's personal website.
+This is the front page of Ziping Ye's personal website. The site is currently under construction. Please check back later!
 
 
 Research Interest
@@ -17,11 +17,10 @@ Research Interest
 Education
 ======
 
-Education 1
-------
+**Education 1**
 
-Education 2
-------
+**Education 2**
+
 
 
 
@@ -39,5 +38,5 @@ Honors and Award
 
 
 News
-------
+======
 this is the news section
