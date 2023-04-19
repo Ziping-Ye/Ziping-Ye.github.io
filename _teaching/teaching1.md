@@ -3,7 +3,7 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate teaching assistant"
 permalink: /teaching/teaching1
-venue: "Pennsylvania State University, Department of Computer Science and Engineering"
+venue: "Pennsylvania State University, Department of Computer Science and Engineering   "
 date: 2014-01-01
 location: "State College, Pennsylvania, United States"
 ---
