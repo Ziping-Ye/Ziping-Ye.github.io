@@ -1,19 +1,19 @@
 # main links links
 main:
   - title: "Research"
-    url: /publications/
+    url: /research/
 
   - title: "Leadership/Civic Engagement"
-    url: /publications/
+    url: /leadership/
 
   - title: "Teaching/Mentoring"
-    url: /talks/    
+    url: /teaching/    
 
   - title: "Software Projects"
-    url: /teaching/    
+    url: /projects/    
     
   - title: "Presentation"
-    url: /portfolio/
+    url: /presentation/
         
   - title: "Blog Posts"
     url: /year-archive/
