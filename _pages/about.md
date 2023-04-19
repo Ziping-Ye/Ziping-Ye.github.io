@@ -28,14 +28,14 @@ Pennsylvania State University
 Honors and Award
 ======
 
-Award 1
-------
+**Award 1**
 
-Award 2
-------
 
-Award 3
-------
+**Award 2**
+
+
+**Award 3**
+
 
 
 News
