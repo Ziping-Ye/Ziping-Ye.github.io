@@ -2,7 +2,7 @@
 title: "Software Project 2"
 collection: projects
 type: "project 2"
-permalink: /projects/project2
+# permalink: /projects/project2
 venue: "Penn State, College of Engineering"
 location: "State College, Country"
 ---
