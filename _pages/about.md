@@ -17,10 +17,10 @@ Research Interest
 Education
 ======
 
-University of Pennsylvania
+Education 1
 ------
 
-Pennsylvania State University
+Education 2
 ------
 
 
