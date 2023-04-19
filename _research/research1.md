@@ -1,7 +1,20 @@
 ---
-title: "Research Experience 1"
-excerpt: "Description of Research Experience 1"
+title: "Researcb experience 1"
 collection: research
+type: "undergraduate researcher"
+permalink: /research/research1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-This is my first research experience.
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
