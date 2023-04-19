@@ -175,22 +175,50 @@ kramdown:
 
 # Collections
 collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
+  leadership:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  projects:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  presentation:
     output: true
     permalink: /:collection/:path/
-  talks:
+  posts:
     output: true
     permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _leadership
+  - scope:
+      path: ""
+      type: leadership
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _posts
   - scope:
       path: ""
@@ -218,10 +246,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _projects
   - scope:
       path: ""
-      type: publications
+      type: projects
     values:
       layout: single
       author_profile: true
@@ -236,12 +264,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _presentation
   - scope:
       path: ""
-      type: talks
+      type: presentation
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
