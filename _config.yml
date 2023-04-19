@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ziping Ye"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Graduate researcher at the UPenn CIS, interested in developing fundamentally trustworthy machine learning, focusing on correctness, robustness, fairness, and interpretability with mathematical guarantees"
   location         : "Philadelphia, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
