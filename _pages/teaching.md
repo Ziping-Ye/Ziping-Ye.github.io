@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Research Experience"
-permalink: /research/
+title: "Teaching and Mentoring Experience"
+permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.research reversed %}
+{% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
