@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Research Experience"
+  - title: "Research"
     url: /publications/
 
-  - title: "Leadership and Civic Engagement Experience"
+  - title: "Leadership and Civic Engagement"
     url: /publications/
 
-  - title: "Teaching and Mentoring Experience"
+  - title: "Teaching and Mentoring"
     url: /talks/    
 
   - title: "Software Projects"
