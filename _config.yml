@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ziping Ye / Graduate Researcher"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ziping Ye"
+description              : &description "this is Ziping's personal description"
+url                      : https://ziping-ye.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "zipingy@seas.upenn.edu"
   generatedFields:
     date:
       type               : "date"
