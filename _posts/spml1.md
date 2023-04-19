@@ -1,7 +1,7 @@
 ---
 title: 'Security and Privacy of Machine Learning Series 1'
 date: 2012-08-14
-permalink: /posts/spml1
+permalink: /posts/2012/08/spml1/
 tags:
   - cool posts
   - category1
