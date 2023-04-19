@@ -1,15 +1,19 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+title: "Software Project 2"
+collection: projects
+type: "project 2"
+permalink: /projects/project2
+venue: "Penn State, College of Engineering"
+location: "State College, Country"
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+This is a description of a software project NUMBER TWO. You can use markdown like any other post.
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+**Motivation**
+this is the motivation of the second software project.
+
+Heading 1
+======
+
+Heading 2
+======

@@ -1,20 +1,19 @@
 ---
-title: "Project #1"
-collection: project
-type: "This is the first project"
-permalink: /teaching/project1
-venue: "Pennsylvania State University, Department of Computer Science and Engineering   "
-date: 2014-01-01
-location: "State College, Pennsylvania, United States"
+title: "Software Project 1"
+collection: projects
+type: "project 1"
+permalink: /projects/project1
+venue: "Penn State, College of Engineering"
+location: "State College, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of a software project 1. You can use markdown like any other post.
+
+**Motivation**
+this is the motivation of the third software project.
 
 Heading 1
 ======
 
 Heading 2
-======
-
-Heading 3
 ======
