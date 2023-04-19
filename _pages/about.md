@@ -16,6 +16,7 @@ Research Interest
 
 Education
 ======
+
 University of Pennsylvania
 ------
 
@@ -26,6 +27,7 @@ Pennsylvania State University
 
 Honors and Award
 ======
+
 Award 1
 ------
 
