@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ziping Ye Personal Website"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of Ziping Ye's personal website. The site is currently under construction. Please check back later!
+I am currently a graduate researcher at University of Pennsylvania [Department of Computer and Information Science (CIS)][UPenn CIS]. I recently graduated from Penn State [Schreyer Honors College][SHC] where I was fortunate to work with Professors [Jinchao Xu][Jinchao Xu], [Syed Rafiul Hussain][Syed Rafiul Hussain] and [Shagufta Mehnaz][Shagufta Mehnaz].
 
 
 Research Interest
 ======
-
-
 
 Education
 ======
@@ -42,3 +40,14 @@ Honors and Award
 News
 ======
 this is the news section
+
+
+[Link References]: #
+
+[UPenn CIS]: https://www.cis.upenn.edu/
+[PSU]: https://www.psu.edu/
+[SHC]: https://www.shc.psu.edu/
+[Jinchao Xu]: https://www.personal.psu.edu/jxx1/
+[Syed Rafiul Hussain]: https://syed-rafiul-hussain.github.io/
+[Shagufta Mehnaz]: https://smehnaz.github.io/
+
