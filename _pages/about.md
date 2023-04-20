@@ -11,8 +11,8 @@ redirect_from:
 I am currently a graduate researcher at the University of Pennsylvania [Department of Computer and Information Science (CIS)][UPenn CIS]. I recently graduated from Penn State [Schreyer Honors College][SHC] where I was fortunate to work with Professors [Jinchao Xu][Jinchao Xu], [Syed Rafiul Hussain][Syed Rafiul Hussain] and [Shagufta Mehnaz][Shagufta Mehnaz].
 
 
-Research Interest
-======
+
+# Research Interest
 My research interests center around machine learning and security. I am interested in developing fundamentally trustworthy machine learning, focusing on correctness, robustness, fairness, and interpretability with mathematical guarantees. I am also interested in applying machine learning techniques to solve security problems, such as intrusion detection, malware detection, etc.
 
 Recently, I am investigating the tension/tradeoff between different trustworthiness objectives (e.g., security, privacy, fairness, transparency). Specifially, I am studying
@@ -21,16 +21,15 @@ Recently, I am investigating the tension/tradeoff between different trustworthin
 - how explanation can be used to generate (attack) and detect (defense) adversarial examples?
 
 
-Education
-======
 
-University of Pennsylvania
----
+# Education
+
+### University of Pennsylvania
+
 MSE in Computer and Information Science, 2023 - present
 
 
-Pennsylvania State University, Schreyer Honors College
----
+### Pennsylvania State University, Schreyer Honors College
 
 B.S. with Honors in Computer Science, Minor in Mathematics, 2019 - 2023
 
@@ -42,8 +41,8 @@ B.S. with Honors in Computer Science, Minor in Mathematics, 2019 - 2023
 
 
 
-Honors and Award
-======
+# Honors and Award 
+
 
 <details>
   <summary> Outstanding Undergraduate Research Achievement, 2023 </summary>
@@ -84,10 +83,12 @@ Honors and Award
 
 
 
+# News
+  I was awarded the Outstanding Undergraduate Research Achievement!
 
-News
-======
-this is the news section
+  I was selected as the College of Engineering Student Marshal for the Computer Science program for Spring 2023!
+
+  The [International and Multicultural Association of Schreyer Scholars (IMASS)][IMASS] officially launch this semester! Check [Penn State News][IMASS News]!
 
 
 
@@ -100,4 +101,5 @@ this is the news section
 [Jinchao Xu]: https://www.personal.psu.edu/jxx1/
 [Syed Rafiul Hussain]: https://syed-rafiul-hussain.github.io/
 [Shagufta Mehnaz]: https://smehnaz.github.io/
-
+[IMASS]: https://sites.psu.edu/psuimass/
+[IMASS News]: https://www.psu.edu/news/schreyer-honors-college/story/new-student-organization-supports-multicultural-schreyer-scholars/
