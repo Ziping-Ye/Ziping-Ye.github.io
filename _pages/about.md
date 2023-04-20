@@ -47,53 +47,49 @@ Honors and Award
 
 <details>
   <summary> Outstanding Undergraduate Research Achievement, 2023 </summary>
-
-  Description
+  This award recognizes an undergraduate researcher that has made an impact in their group and field. 
 </details>
 
 <details>
   <summary> The Evan Pugh Scholar Senior Award, 2022 </summary>
-
-  Description
+  The Evan Pugh scholars are those juniors and seniors who are in the upper 0.5 percent of their respective classes and have completed at least 48 graded Penn State credits at the end of the fall semester of the academic year in which the award is given.
 </details>
 
 <details>
   <summary> Engagement Excellence Award, 2021 </summary>
-
-  Description
+  For Outstanding Demonstration of Personal Growth, Professional Readiness, and/or Community Impact from an Engaged Learning Experience.
 </details>
 
 <details>
   <summary> PSU President Sparks Award, 2021 </summary>
-
-  Description
+  This award is presented annually to those undergraduate degree candidates who have earned a 4.0 (A) cumulative grade-point average based on at least 36 graded Penn State credits completed by the end of the fall semester of the academic year in which the award is given.
 </details>
 
 <details>
   <summary> David & Shirley Wormley Engineering Scholarship, 2020 </summary>
-
-  Description
+  Awarded to undergraduate students in the College of Engineering who are working in research groups.
 </details>
 
 
 <details>
   <summary> PSU President’s Freshman Award, 2020 </summary>
-
-  Description
+  This award is presented annually to undergraduate degree candidates and degree-seeking provisional students who have earned a 4.0 (A) cumulative grade-point average based on at least 12 graded Penn State credits completed during their first semester of admission.
 </details>
 
 
 <details>
   <summary> AP Scholar with Distinction Award, 2019 </summary>
-
-  Description
+  Granted to students who receive an average score of at least 3.5 on all AP Exams taken, and scores of 3 or higher on five or more of these exams.
 </details>
+
 
 
 
 News
 ======
 this is the news section
+
+
 
 
 [Link References]: #
