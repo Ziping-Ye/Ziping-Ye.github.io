@@ -28,7 +28,6 @@ The answer to these questions will provide guidelines to develop safe explainabl
 
 MSE in Computer and Information Science, 2023 - present
 
-
 ### Pennsylvania State University, Schreyer Honors College
 
 B.S. with Honors in Computer Science, Minor in Mathematics, 2019 - 2023
