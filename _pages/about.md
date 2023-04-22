@@ -27,7 +27,7 @@ The answer to these questions will provide guidelines to develop safe explainabl
 # Education
 
 :mortar_board: **University of Pennsylvania** <br />
-MSE in Computer and Information Science &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2023 - present
+MSE in Computer and Information Science &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2023 - present
 
 :mortar_board: **Pennsylvania State University**, Schreyer Honors College <br />
 B.S. with Honors in Computer Science, Minor in Mathematics &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2019 - 2023 <br />
