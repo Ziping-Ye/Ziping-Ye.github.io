@@ -31,8 +31,8 @@ MSE in Computer and Information Science, 2023 - present
 ### Pennsylvania State University, Schreyer Honors College
 
 B.S. with Honors in Computer Science, Minor in Mathematics, 2019 - 2023
+Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices”
 
-- International and Multicultural Association of Schreyer Scholars (IMASS)
 - Eta Kappa Nu (HKN) - EECS Honor Society
 - Golden Key International Honour Society
 
