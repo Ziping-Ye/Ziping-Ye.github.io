@@ -30,7 +30,7 @@ The answer to these questions will provide guidelines to develop safe explainabl
 MSE in Computer and Information Science &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2023 - present
 
 :mortar_board: **Pennsylvania State University**, Schreyer Honors College <br />
-B.S. with Honors in Computer Science, Minor in Mathematics &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2019 - 2023 <br />
+B.S. with Honors in Computer Science, Minor in Mathematics &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2019 - 2023 <br />
 Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices”
 
 - Eta Kappa Nu (HKN) - EECS Honor Society
