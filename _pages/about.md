@@ -30,7 +30,7 @@ MSE in Computer and Information Science, 2023 - present
 
 ### Pennsylvania State University, Schreyer Honors College
 
-B.S. with Honors in Computer Science, Minor in Mathematics, 2019 - 2023
+B.S. with Honors in Computer Science, Minor in Mathematics, 2019 - 2023 <br />
 Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices”
 
 - Eta Kappa Nu (HKN) - EECS Honor Society
@@ -78,7 +78,7 @@ Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices
   Granted to students who receive an average score of at least 3.5 on all AP Exams taken, and scores of 3 or higher on five or more of these exams.
 </details>
 
-
+<br />
 
 # News
 - I was awarded the Outstanding Undergraduate Research Achievement!
