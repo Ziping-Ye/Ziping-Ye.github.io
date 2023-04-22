@@ -20,9 +20,9 @@ author_profile: true
 
 # Explanation Assisted Adversarial Example Generation
 
-:memo: Penn State Prof. Mehnaz’s Lab <br>
-Advisor: Shagufta Mehnaz <br>
-January 2023 - Present
+:school: Penn State Prof. Mehnaz’s Lab <br>
+:woman_teacher: Advisor: Shagufta Mehnaz <br>
+:hourglass: January 2023 - Present
 
 
 - **Motivation**: Attackers can also access model explanations that facilitate transparent machine learning systems for critical decision-making and potentially launch more powerful attacks. I studied the tension between different goals (e.g., security, privacy, transparency) and planned to propose explanation-assisted attacks
@@ -32,9 +32,9 @@ January 2023 - Present
 
 # Intrusion Detection for Cellular Network
 
-Penn State Systems and Network Security (SyNSec) Research Group <br>
-Advisor: Syed Rafiul Hussain <br>
-May 2021 - April - 2023 
+:school: Penn State Systems and Network Security (SyNSec) Research Group <br>
+:man_teacher: Advisor: Syed Rafiul Hussain <br>
+:hourglass: May 2021 - April - 2023 
 
 - **Motivation**: Because the increasing scale and complexity of modern systems (e.g., cellular networks) make traditional rule-based defensive approaches ineffective, I applied cutting-edge machine learning techniques to protect cellular networks, the critical infrastructure of the digital world, from evolving attacks
 - Designed and implemented a novel machine learning architecture in PyTorch that uses LSTM on top of BERT, which considers relationships between segments of messages (i.e., inter-window context) for intrusion detection
@@ -46,9 +46,9 @@ May 2021 - April - 2023
 
 # Landscape of Neural Network and Its Robustness
 
-Penn State Center for Computational Mathematics and Applications <br>
-Advisors: Jinchao Xu and Jonathan Seigel <br>
-July 2020 - August 2021
+:school: Penn State Center for Computational Mathematics and Applications <br>
+:man_teacher: Advisors: Jinchao Xu and Jonathan Seigel <br>
+:hourglass: July 2020 - August 2021
 
 - **Motivation**: In an attempt to understand why adversarial examples can fool state-of-the-art neural networks, I studied the neural network as a function of its input space (e.g., pixels in an image) to evaluate the impact of certain pixels on the prediction of each class (e.g., digit 0, cat)
 - Found that neural network functions (e.g., ResNet, VGG, DenseNet) become more sensitive to changes in input pixels as training progresses, which explains why even slight changes in pixel values can cause the neural network to produce very different results
