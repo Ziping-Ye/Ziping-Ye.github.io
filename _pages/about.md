@@ -22,15 +22,15 @@ Recently, I am investigating the tension/tradeoff between different trustworthin
 
 The answer to these questions will provide guidelines to develop safe explainable machine learning system given the existence of adversaries.
 
+
+
 # Education
 
-### University of Pennsylvania
+**University of Pennsylvania** <br />
+MSE in Computer and Information Science &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2023 - present
 
-MSE in Computer and Information Science, 2023 - present
-
-### Pennsylvania State University, Schreyer Honors College
-
-B.S. with Honors in Computer Science, Minor in Mathematics, 2019 - 2023 <br />
+**Pennsylvania State University**, Schreyer Honors College <br />
+B.S. with Honors in Computer Science, Minor in Mathematics &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2019 - 2023 <br />
 Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices”
 
 - Eta Kappa Nu (HKN) - EECS Honor Society
@@ -39,7 +39,6 @@ Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices
 
 
 # Honors and Award 
-
 
 <details>
   <summary> Outstanding Undergraduate Research Achievement, 2023 </summary>
