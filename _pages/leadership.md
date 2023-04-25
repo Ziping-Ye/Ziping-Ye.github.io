@@ -34,7 +34,7 @@ October 2022 - April 2023
 ## Student Leader, *International Schreyer Scholars Engagement*
 March - October 2022
 
-- Connected with international and domestic Schreyer Scholars; Foster a genuine sense of belonging of international and multicultural scholars in the honors college community
+- Connected with international and domestic Schreyer Scholars to foster a genuine sense of belonging of international and multicultural scholars in the honors college community
 - Helped international scholars with scheduling conflicts during their International Student Orientation and Schreyer Honors College Orientation; Sent targeted welcome emails to incoming international scholars
 - Invited to join the “Building Belonging” workshop series, where Schreyer leadership and student leaders meet and exchange ideas and learn how to lead a student organization
 
@@ -43,7 +43,7 @@ March - October 2022
 October 2022
 
 - Participated in business activities designed to introduce students to challenges and decisions they will face as leaders in various organizations for a simulated initiative - Dinner And A Movie; Received personalized feedback and leadership development plan
-- Wrote executive summary and gave a virtual presentation; Made hiring decision; Addressed negative customer feedback; Went through a role-play exercise
+- Wrote executive summary and gave a virtual presentation; Made hiring decision; Addressed negative customer feedback
 - Participated in a leaderless group discussion where members wrote a detailed job description for a new role (Director of Operations) and suggested a candidate for this role among two applicants
 
 

@@ -15,27 +15,23 @@ I am currently a graduate researcher at the [University of Pennsylvania][UPenn] 
 # Research Interest
 My research interests center around machine learning and security. I am interested in developing fundamentally trustworthy machine learning, focusing on correctness, robustness, fairness, and interpretability with mathematical guarantees. I am also interested in applying machine learning techniques to solve security problems, such as intrusion detection, malware detection, etc.
 
-Recently, I am investigating the tension/tradeoff between different trustworthiness objectives (e.g., security, privacy, fairness, transparency). Specifially, I am studying
+Lately, I have been investigating the tension/tradeoff between different trustworthiness objectives (e.g., security, privacy, fairness, transparency). Specifially, I am studying
 
-- how model explanation relates to adversarial example generation?
-- how explanation can be used to generate (attack) and detect (defense) adversarial examples?
+- how model explanation relates to adversarial example generation
+- how explanation can be used to generate (attack) and detect (defense) adversarial examples
 
-The answer to these questions will provide guidelines to develop safe explainable machine learning system given the existence of adversaries.
+Exploring these issues will provide guidelines to develop safe explainable machine learning system given the existence of adversaries.
 
 
 
 # Education
 
 :mortar_board: **University of Pennsylvania** <br />
-MSE in Computer and Information Science &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2023 - present
+MSE in Computer and Information Science &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2023 - 
 
 :mortar_board: **Pennsylvania State University**, Schreyer Honors College <br />
 B.S. with Honors in Computer Science, Minor in Mathematics &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2019 - 2023 <br />
 Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices”
-
-- Eta Kappa Nu (HKN) - EECS Honor Society
-- Golden Key International Honour Society
-
 
 
 # Honors and Award 
@@ -43,6 +39,16 @@ Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices
 <details>
   <summary> Outstanding Undergraduate Research Achievement, 2023 </summary>
   This award recognizes an undergraduate researcher that has made an impact in their group and field. 
+</details>
+
+<details>
+  <summary> Inducted into Eta Kappa Nu (HKN) - EECS Honor Society, 2022 </summary>
+  To be added. 
+</details>
+
+<details>
+  <summary> Inducted into Golden Key International Honour Society, 2022 </summary>
+  To be added. 
 </details>
 
 <details>
@@ -80,9 +86,9 @@ Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices
 <br />
 
 # News
-- I was awarded the Outstanding Undergraduate Research Achievement!
-- I was selected as the College of Engineering Student Marshal for the Computer Science program for Spring 2023!
-- The [International and Multicultural Association of Schreyer Scholars (IMASS)][IMASS] officially launch this semester! Check [Penn State News][IMASS News]!
+- **April'21:** I was awarded the Outstanding Undergraduate Research Achievement!
+- **April'21:** I was selected as the College of Engineering Student Marshal for the Computer Science program for Spring 2023!
+- **January'21:** The [International and Multicultural Association of Schreyer Scholars (IMASS)][IMASS] I found officially launch! Check [Penn State News][IMASS News]!
 
 
 

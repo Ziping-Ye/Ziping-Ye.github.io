@@ -13,6 +13,7 @@ author_profile: true
 
 
 ## Schreyer Honors College Orientation Mentor (SHO TIME Mentor)
+Date
 
 - Participated in five training sessions (use of inclusive language, leadership, communication skills) and in planning for Schreyer Honors College Orientation (SHO TIME) 2022
 - Affirmed as Certified Peer Educator (CPE) by the National Association of Student Personnel Administrators (NASPA)
@@ -22,6 +23,7 @@ author_profile: true
 
 
 ## Undergraduate Teaching Assistant
+Fall 2020
 
 - Worked with a group of ten teaching assistants in Programming & Computation II: Data Structures (CMPSC 132) at Penn State, assisting the professor in grading assignments for over 400 students
 - Provided positive feedback on students’ style of coding and computational efficiency in a timely manner
