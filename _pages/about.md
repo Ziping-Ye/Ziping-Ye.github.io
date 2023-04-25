@@ -86,8 +86,8 @@ Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices
 <br />
 
 # News
-- **April'21:** I was awarded the Outstanding Undergraduate Research Achievement!
-- **April'21:** I was selected as the College of Engineering Student Marshal for the Computer Science program for Spring 2023!
+- **April'21:** I was awarded the [Outstanding Undergraduate Research Achievement][Outstanding Undergraduate Research Achievement]!
+- **April'21:** I was selected as the [College of Engineering Student Marshal][CoE Student Marshal News] for the Computer Science program for Spring 2023!
 - **January'21:** The [International and Multicultural Association of Schreyer Scholars (IMASS)][IMASS] I found officially launch! Check [Penn State News][IMASS News]!
 
 
@@ -104,3 +104,5 @@ Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices
 [Shagufta Mehnaz]: https://smehnaz.github.io/
 [IMASS]: https://sites.psu.edu/psuimass/
 [IMASS News]: https://www.psu.edu/news/schreyer-honors-college/story/new-student-organization-supports-multicultural-schreyer-scholars/
+[CoE Student Marshal News]: https://www.engr.psu.edu/commencement/student-marshals/spring-2023.aspx#Ye
+[Outstanding Undergraduate Research Achievement]: https://inclusion.engr.psu.edu/annual-awards/index.aspx
