@@ -13,7 +13,7 @@ I am currently a graduate researcher at the [University of Pennsylvania][UPenn] 
 
 
 # Research Interest
-My research interests center around machine learning and security. I am interested in developing fundamentally trustworthy machine learning, focusing on correctness, robustness, fairness, and interpretability with mathematical guarantees. I am also interested in applying machine learning techniques to solve security problems, such as intrusion detection, malware detection, etc.
+My research interests center around machine learning and security. I am interested in developing fundamentally trustworthy machine learning, focusing on correctness, robustness, fairness, and interpretability with mathematical guarantees. I am also interested in applying machine learning techniques to solve security problems, such as intrusion and malware detection.
 
 Lately, I have been investigating the tension/tradeoff between different trustworthiness objectives (e.g., security, privacy, fairness, transparency). Specifially, I am studying
 
