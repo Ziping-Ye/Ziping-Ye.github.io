@@ -90,11 +90,11 @@ Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices
 <br />
 
 # News
-**April'23:** I was awarded the [Outstanding Undergraduate Research Achievement][Outstanding Undergraduate Research Achievement]!
+**April'23:** Awarded the [Outstanding Undergraduate Research Achievement][Outstanding Undergraduate Research Achievement]!
 <br>
-**April'23:** I was selected as the [College of Engineering Student Marshal][CoE Student Marshal News] for the Computer Science program for Spring 2023!
+**April'23:** Selected as the [College of Engineering Student Marshal][CoE Student Marshal News] for the Computer Science program for Spring 2023!
 <br>
-**January'23:** The [International and Multicultural Association of Schreyer Scholars (IMASS)][IMASS] I found officially launch! Check [Penn State News][IMASS News]!
+**January'23:** Officially launched the [International and Multicultural Association of Schreyer Scholars (IMASS)][IMASS], which I served as the Founding President! Check [Penn State News][IMASS News]!
 
 
 

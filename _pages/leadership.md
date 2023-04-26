@@ -20,7 +20,7 @@ author_profile: true
 
 
 
-## Founding President, *International and Multicultural Association of Schreyer Scholars (IMASS)*
+## Founding President, *[International and Multicultural Association of Schreyer Scholars (IMASS)][IMASS Website]*
 October 2022 - April 2023
 
 - Developed Mission Statement; Designed the organizational structure; Formed executive board
@@ -63,3 +63,4 @@ March 2022
 
 
 [IMASS News]: https://www.psu.edu/news/schreyer-honors-college/story/new-student-organization-supports-multicultural-schreyer-scholars/
+[IMASS Website]: https://sites.psu.edu/psuimass/
