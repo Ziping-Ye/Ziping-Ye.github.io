@@ -30,7 +30,7 @@ Exploring these issues will provide guidelines to develop safe explainable machi
 MSE in Computer and Information Science &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2023 - 
 
 :mortar_board: **Pennsylvania State University**, Schreyer Honors College <br />
-B.S. with Honors in Computer Science, Minor in Mathematics &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2019 - 2023 <br />
+B.S. with Honors in Computer Science, Minor in Mathematics &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2019 - 2023 <br />
 Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices”
 
 
@@ -86,9 +86,11 @@ Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices
 <br />
 
 # News
-- **April'21:** I was awarded the [Outstanding Undergraduate Research Achievement][Outstanding Undergraduate Research Achievement]!
-- **April'21:** I was selected as the [College of Engineering Student Marshal][CoE Student Marshal News] for the Computer Science program for Spring 2023!
-- **January'21:** The [International and Multicultural Association of Schreyer Scholars (IMASS)][IMASS] I found officially launch! Check [Penn State News][IMASS News]!
+**April'21:** I was awarded the [Outstanding Undergraduate Research Achievement][Outstanding Undergraduate Research Achievement]!
+<br />
+**April'21:** I was selected as the [College of Engineering Student Marshal][CoE Student Marshal News] for the Computer Science program for Spring 2023!
+<br />
+**January'21:** The [International and Multicultural Association of Schreyer Scholars (IMASS)][IMASS] I found officially launch! Check [Penn State News][IMASS News]!
 
 
 
