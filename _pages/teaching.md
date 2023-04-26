@@ -13,7 +13,7 @@ author_profile: true
 
 
 ## Schreyer Honors College Orientation Mentor (SHO TIME Mentor)
-Date
+March - August 2022
 
 - Participated in five training sessions (use of inclusive language, leadership, communication skills) and in planning for Schreyer Honors College Orientation (SHO TIME) 2022
 - Affirmed as Certified Peer Educator (CPE) by the National Association of Student Personnel Administrators (NASPA)
