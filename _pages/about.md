@@ -43,12 +43,12 @@ Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices
 
 <details>
   <summary> Inducted into Eta Kappa Nu (HKN) - EECS Honor Society, 2022 </summary>
-  To be added. 
+  Top forth of Juniors and top third of Seniors major in Computer Science, Electrical Engineering and Computer Engineering are invited to join.
 </details>
 
 <details>
   <summary> Inducted into Golden Key International Honour Society, 2022 </summary>
-  To be added. 
+   Top 15% of college and university sophomores, juniors and seniors, as well as top-performing graduate students in all fields of study are invited to join.
 </details>
 
 <details>
@@ -85,6 +85,10 @@ Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices
 
 <br />
 
+**Link to** [CV][CV Link]
+
+<br />
+
 # News
 **April'23:** I was awarded the [Outstanding Undergraduate Research Achievement][Outstanding Undergraduate Research Achievement]!
 <br>
@@ -108,3 +112,5 @@ Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices
 [IMASS News]: https://www.psu.edu/news/schreyer-honors-college/story/new-student-organization-supports-multicultural-schreyer-scholars/
 [CoE Student Marshal News]: https://www.engr.psu.edu/commencement/student-marshals/spring-2023.aspx#Ye
 [Outstanding Undergraduate Research Achievement]: https://inclusion.engr.psu.edu/annual-awards/index.aspx
+[CV Link]: https://www.dropbox.com/s/s75dlfub2m95dxb/Ziping%20Ye%20CV.pdf?dl=0
+
