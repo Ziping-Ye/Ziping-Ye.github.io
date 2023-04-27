@@ -85,10 +85,6 @@ Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices
 
 <br />
 
-**Link to** [CV][CV Link]
-
-<br />
-
 # News
 **April'23:** Awarded the [Outstanding Undergraduate Research Achievement][Outstanding Undergraduate Research Achievement]!
 <br>
@@ -112,5 +108,3 @@ Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices
 [IMASS News]: https://www.psu.edu/news/schreyer-honors-college/story/new-student-organization-supports-multicultural-schreyer-scholars/
 [CoE Student Marshal News]: https://www.engr.psu.edu/commencement/student-marshals/spring-2023.aspx#Ye
 [Outstanding Undergraduate Research Achievement]: https://inclusion.engr.psu.edu/annual-awards/index.aspx
-[CV Link]: https://www.dropbox.com/s/s75dlfub2m95dxb/Ziping%20Ye%20CV.pdf?dl=0
-
