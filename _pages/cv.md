@@ -9,7 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-**Link to** [CV][CV Link]
+**Link to** [CV](http://ziping-ye.github.io/files/Ziping_Ye_CV.pdf)
 
-
-[CV Link]: https://www.dropbox.com/s/s75dlfub2m95dxb/Ziping%20Ye%20CV.pdf?dl=0
