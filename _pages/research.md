@@ -34,7 +34,7 @@ author_profile: true
 
 :school: [Penn State Systems and Network Security (SyNSec) Research Group][SyNSec Lab] <br>
 :man_teacher: Advisor: [Syed Rafiul Hussain][Syed Rafiul Hussain] <br>
-:mantelpiece_clock: May 2021 - April - 2023 
+:mantelpiece_clock: May 2021 - April 2023 
 
 - **Motivation**: Because the increasing scale and complexity of modern systems (e.g., cellular networks) make traditional rule-based defensive approaches ineffective, I applied cutting-edge machine learning techniques to protect cellular networks, the critical infrastructure of the digital world, from evolving attacks
 - Designed and implemented a novel machine learning architecture in PyTorch that uses LSTM on top of BERT, which considers relationships between segments of messages (i.e., inter-window context) for intrusion detection
