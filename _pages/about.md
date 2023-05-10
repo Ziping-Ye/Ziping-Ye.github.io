@@ -29,12 +29,14 @@ Exploring these issues will provide guidelines to develop safe explainable machi
 :mortar_board: **University of Pennsylvania** <br />
 M.S. in Computer and Information Science &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; 2023 - 
 
-:mortar_board: **Pennsylvania State University**, Schreyer Honors College <br />
+:mortar_board: **Schreyer Honors College at Penn State**  <br />
 B.S. with Honors in Computer Science, Minor in Mathematics &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2019 - 2023 <br />
 Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices”
 
 
 # Honors and Award 
+
+Click on the triangle for the description of each honor/award.
 
 <details>
   <summary> Penn State College of Engineering Student Marshal, 2023 </summary>
