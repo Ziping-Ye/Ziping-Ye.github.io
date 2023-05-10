@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ziping Ye"
 title_separator          : "-"
 name                     : &name "Ziping Ye"
-description              : &description "this is Ziping's personal description"
+description              : &description "Ziping Ye Personal Website""
 url                      : https://ziping-ye.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ziping-Ye/Ziping-Ye.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ziping Ye"
   avatar           : "profile.png"
-  bio              : "Graduate researcher @ UPenn CIS"
+  bio              : "Graduate Researcher @ UPenn CIS"
   location         : "Philadelphia, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

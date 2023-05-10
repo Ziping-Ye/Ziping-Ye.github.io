@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a graduate researcher at the [University of Pennsylvania][UPenn] [Department of Computer and Information Science (CIS)][UPenn CIS]. I recently graduated from Penn State [Schreyer Honors College][SHC] where I was fortunate to work with Professors [Jinchao Xu][Jinchao Xu], [Syed Rafiul Hussain][Syed Rafiul Hussain] and [Shagufta Mehnaz][Shagufta Mehnaz].
+I am currently a graduate researcher at the [University of Pennsylvania][UPenn] [Department of Computer and Information Science (CIS)][UPenn CIS]. I recently graduated from [Schreyer Honors College][SHC] at Penn State  where I was fortunate to work with Professors [Jinchao Xu][Jinchao Xu], [Syed Rafiul Hussain][Syed Rafiul Hussain] and [Shagufta Mehnaz][Shagufta Mehnaz].
 
 
 
