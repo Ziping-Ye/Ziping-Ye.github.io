@@ -45,7 +45,7 @@ Click on the triangle for the description of each honor/award.
 
 <details>
   <summary> Outstanding Undergraduate Research Achievement, 2023 </summary>
-  This award recognizes an undergraduate researcher that has made an impact in their group and field. 
+  This award recognizes an undergraduate researcher in Penn State College of Engineering that has made an impact in their group and field. 
 </details>
 
 <details>
