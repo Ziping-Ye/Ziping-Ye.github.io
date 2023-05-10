@@ -27,7 +27,7 @@ Exploring these issues will provide guidelines to develop safe explainable machi
 # Education
 
 :mortar_board: **University of Pennsylvania** <br />
-MSE in Computer and Information Science &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; 2023 - 
+M.S. in Computer and Information Science &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; 2023 - 
 
 :mortar_board: **Pennsylvania State University**, Schreyer Honors College <br />
 B.S. with Honors in Computer Science, Minor in Mathematics &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2019 - 2023 <br />
@@ -35,6 +35,11 @@ Honors Thesis: “Dragon Defender: Runtime Threat Detection for Cellular Devices
 
 
 # Honors and Award 
+
+<details>
+  <summary> Penn State College of Engineering Student Marshal, 2023 </summary>
+  Student marshals are selected for their outstanding academic achievement and contributions to engineering student life. This high honor is bestowed on a student in the graduating class who represents the best of the program graduates. 
+</details>
 
 <details>
   <summary> Outstanding Undergraduate Research Achievement, 2023 </summary>
