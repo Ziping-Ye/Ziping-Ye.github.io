@@ -50,17 +50,17 @@ Click on the triangle for the description of each honor/award.
 
 <details>
   <summary> Inducted into The Honor Society of Phi Kappa Phi, 2023 </summary>
-  the nation’s oldest, most selective, and most prestigious all-discipline honor society
+  Only the top 7.5 percent of second-term juniors and top 10 percent of seniors and graduate students are invited to join the nation’s oldest, most selective, and most prestigious all-discipline honor society.
 </details>
 
 <details>
   <summary> Inducted into Eta Kappa Nu (HKN) - EECS Honor Society, 2022 </summary>
-  Top forth of Juniors and top third of Seniors major in Computer Science, Electrical Engineering and Computer Engineering are invited to join.
+  Only the top forth of Juniors and top third of Seniors major in Computer Science, Electrical Engineering and Computer Engineering are invited to join.
 </details>
 
 <details>
   <summary> Inducted into Golden Key International Honour Society, 2022 </summary>
-   Top 15% of college and university sophomores, juniors and seniors, as well as top-performing graduate students in all fields of study are invited to join.
+   Only the top 15% of college and university sophomores, juniors and seniors, as well as top-performing graduate students in all fields of study are invited to join.
 </details>
 
 <details>
