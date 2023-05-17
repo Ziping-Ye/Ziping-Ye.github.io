@@ -49,6 +49,11 @@ Click on the triangle for the description of each honor/award.
 </details>
 
 <details>
+  <summary> Inducted into The Honor Society of Phi Kappa Phi, 2023 </summary>
+  the nation’s oldest, most selective, and most prestigious all-discipline honor society
+</details>
+
+<details>
   <summary> Inducted into Eta Kappa Nu (HKN) - EECS Honor Society, 2022 </summary>
   Top forth of Juniors and top third of Seniors major in Computer Science, Electrical Engineering and Computer Engineering are invited to join.
 </details>
