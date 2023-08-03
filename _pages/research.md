@@ -58,7 +58,7 @@ author_profile: true
 
 [Link References]: #
 
-[Jinchao Xu]: https://www.personal.psu.edu/jxx1/
+[Jinchao Xu]: https://www.mri.psu.edu/mri/personnel-directory/jxx1
 [Syed Rafiul Hussain]: https://syed-rafiul-hussain.github.io/
 [Shagufta Mehnaz]: https://smehnaz.github.io/
 [Jonathan Seigel]: https://jwsiegel2510.github.io/

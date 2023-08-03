@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a graduate researcher at the [University of Pennsylvania][UPenn] [Department of Computer and Information Science (CIS)][UPenn CIS]. I recently graduated from [Schreyer Honors College][SHC] at Penn State  where I was fortunate to work with Professors [Jinchao Xu][Jinchao Xu], [Syed Rafiul Hussain][Syed Rafiul Hussain] and [Shagufta Mehnaz][Shagufta Mehnaz].
+[Command: bundle exec jekyll serve]: #
 
+I am currently a graduate student in [Department of Computer and Information Science][UPenn CIS] at the [University of Pennsylvania][UPenn]. 
+
+In May 2023, I graduated from [Schreyer Honors College][SHC] at Penn State, where I was honored to serve as the College of Engineering [Student Marshal][CoE Student Marshal News] and received [Outstanding Undergraduate Research Achievement Award][Outstanding Undergraduate Research Achievement], recognizing my academic excellence, research accomplishments, and leadership. During my time at Penn State, I was fortunate enough to work with Professors [Jinchao Xu][Jinchao Xu], [Syed Rafiul Hussain][Syed Rafiul Hussain], and [Shagufta Mehnaz][Shagufta Mehnaz] on various research projects.
 
 
 # Research Interest
-My research interests center around machine learning and security. I am interested in developing fundamentally trustworthy machine learning, focusing on correctness, robustness, fairness, and interpretability with mathematical guarantees. I am also interested in applying machine learning techniques to solve security problems, such as intrusion and malware detection.
+I am interested in developing fundamentally trustworthy machine learning, focusing on correctness, robustness, fairness, and interpretability with mathematical guarantees. I am also interested in applying machine learning techniques to solve security problems, such as intrusion and malware detection.
 
 Lately, I have been investigating the tension/tradeoff between different trustworthiness objectives (e.g., security, privacy, fairness, transparency). Specifially, I am studying
 
@@ -98,13 +101,14 @@ Click on the triangle for the description of each honor/award.
 <br />
 
 # News
-**April'23:** Awarded the [Outstanding Undergraduate Research Achievement][Outstanding Undergraduate Research Achievement]!
+**April'23:** Awarded the [Outstanding Undergraduate Research Achievement][Outstanding Undergraduate Research Achievement].
 <br>
-**April'23:** Selected as the [College of Engineering Student Marshal][CoE Student Marshal News] for the Computer Science program for Spring 2023!
+**April'23:** Selected as the [College of Engineering Class of 2023 Student Marshal][CoE Student Marshal News] for Computer Science.
 <br>
-**January'23:** Officially launched the [International and Multicultural Association of Schreyer Scholars (IMASS)][IMASS], which I served as the Founding President! Check [Penn State News][IMASS News]!
+**January'23:** Served as the Founding President of the [International and Multicultural Association of Schreyer Scholars (IMASS)][IMASS]. Check [Penn State News][IMASS News] for details.
 
 
+Last update: August 2nd, 2023
 
 
 [Link References]: #
@@ -113,7 +117,7 @@ Click on the triangle for the description of each honor/award.
 [UPenn CIS]: https://www.cis.upenn.edu/
 [PSU]: https://www.psu.edu/
 [SHC]: https://www.shc.psu.edu/
-[Jinchao Xu]: https://www.personal.psu.edu/jxx1/
+[Jinchao Xu]: https://www.mri.psu.edu/mri/personnel-directory/jxx1
 [Syed Rafiul Hussain]: https://syed-rafiul-hussain.github.io/
 [Shagufta Mehnaz]: https://smehnaz.github.io/
 [IMASS]: https://sites.psu.edu/psuimass/
