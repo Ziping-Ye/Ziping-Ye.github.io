@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ziping Ye"
   avatar           : "profile.png"
-  bio              : "Graduate Researcher @ UPenn CIS"
+  bio              : "Graduate Student @ UPenn CIS"
   location         : "Philadelphia, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -178,6 +178,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  work:
+    output: true
+    permalink: /:collection/:path/
   leadership:
     output: true
     permalink: /:collection/:path/
@@ -201,6 +204,17 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _work
+  - scope:
+      path: ""
+      type: work
     values:
       layout: single
       author_profile: true
