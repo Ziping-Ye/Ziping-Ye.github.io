@@ -106,7 +106,7 @@ Click on the triangle for the description of each honor/award.
 - Languages: Python, C/C++, Java, HTML, CSS, JavaScript
 - Frameworks & Libraries: PyTorch, HuggingFace, Scikit-learn, Numpy, Pandas, Matplotlib 
 - Tools & Software: LaTex, Postman, Git, Docker, EndNote 
-- Platforms: Amazon Web Services (AWS) 
+- Platforms: GitHub, Amazon Web Services (AWS) 
 - Skills: Algorithm Design and Analysis, Software Development
 
 Certifications:
