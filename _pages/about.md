@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a graduate student in [Department of Computer and Information Science][UPenn CIS] at the [University of Pennsylvania][UPenn]. 
 
-In May 2023, I graduated from [Schreyer Honors College][SHC] at Penn State, where I was honored to serve as the College of Engineering [Student Marshal][CoE Student Marshal News] and received [Outstanding Undergraduate Research Achievement Award][Outstanding Undergraduate Research Achievement], recognizing my academic excellence, research accomplishments, and leadership. During my time at Penn State, I was fortunate enough to work with Professors [Jinchao Xu][Jinchao Xu], [Syed Rafiul Hussain][Syed Rafiul Hussain], and [Shagufta Mehnaz][Shagufta Mehnaz] on various research projects.
+In May 2023, I graduated Summa Cum Laude from [Schreyer Honors College][SHC] at Penn State, where I was honored to serve as the College of Engineering [Student Marshal][CoE Student Marshal News] and received [Outstanding Undergraduate Research Achievement Award][Outstanding Undergraduate Research Achievement], recognizing my academic excellence, research accomplishments, and leadership. During my time at Penn State, I was fortunate enough to work with Professors [Jinchao Xu][Jinchao Xu], [Syed Rafiul Hussain][Syed Rafiul Hussain], and [Shagufta Mehnaz][Shagufta Mehnaz] on various research projects.
 
 
 # Research Interest
@@ -109,7 +109,7 @@ Click on the triangle for the description of each honor/award.
 **January'23:** Served as the Founding President of the [International and Multicultural Association of Schreyer Scholars (IMASS)][IMASS]. Check [Penn State News][IMASS News] for details.
 
 
-Last update: August 2nd, 2023
+Last update: August 13th, 2023
 
 
 [Link References]: #
