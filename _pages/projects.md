@@ -12,7 +12,6 @@ author_profile: true
 {% endfor %} -->
 
 
-- [AutoDrive Challenge II (Penn State Advanced Vehicle Team Object Detection Department)](#autodrive-challenge-ii-penn-state-advanced-vehicle-team-object-detection-department)
 - [Software Security](#software-security)
 - [Access Control](#access-control)
 - [Web Security](#web-security)
@@ -25,15 +24,6 @@ author_profile: true
 - [Room Scheduling System](#room-scheduling-system)
 - [MDADM Linear Device](#mdadm-linear-device)
 - [Iterative Methods Comparison](#iterative-methods-comparison)
-
-
-
-## AutoDrive Challenge II (Penn State Advanced Vehicle Team Object Detection Department)
-
-- Explored high-definition (HD) map used in autonomous driving and converted it into a database
-- Designed and implemented algorithms based on HD map for the highway challenges in Python and PostgreSQL
-- Communicated with other departments to test the correctness and performance of the developed algorithms
-- Gave Alpha, Beta, and final prototype presentation and co-authored Statement of the Work Report and Final Report
 
 
 
@@ -67,9 +57,9 @@ author_profile: true
 ## Dynamic Memory Allocator
 
 - Implemented a dynamic memory allocator in C
-- Supported malloc, free, realloc, coalesce, split, and mm_init functions
+- Supported common functionalities such as malloc, free, realloc, etc.
 - Wrote a heap checker to check invariants of heap memory
-- Utilized a segregated list to keep track of free blocks of different sizes for the best balance of throughput and memory utilization
+- Utilized a segregated list to track available blocks, optimizing throughput and memory utilization
 
 
 
@@ -89,7 +79,7 @@ author_profile: true
 ## 2D Drawing Application
 
 - Wrote a 2D drawing application in Java
-- Implemented undo and clear button and a status bar showing the mouse’s current location
+- Implemented undo and clear button and a status bar
 - Supported common shapes (e.g., line, oval, rectangle) - filled/unfilled, line width, color, and gradient effect
 
 
@@ -103,14 +93,15 @@ author_profile: true
 ## Room Scheduling System
 
 - Designed a database-driven application with Graphical User Interface (GUI) in Java and SQL for room scheduling with a given date and the number of seats
-- Implemented methods to add a room, drop a room, cancel a reservation, check the status by faculty and by date, and add to the waitlist
+- Implemented methods to add and drop a room, cancel a reservation, check the status based on different filters, and add to the waitlist
 
-
+ 
 
 ## MDADM Linear Device
 
 - Built a user-space application in C that manages the storage system with networking features
-- Implemented read, write, seek to disk, seek to block functionalities that allows user to interact with multiple disks as one linear device; Developed Least Recently Used (LRU) cache with 89.2% hit rate for random input with 4096 cache entries
+- Implemented read, write, seek to disk, seek to block functionalities that allows user to interact with multiple disks as one linear device
+- Developed Least Recently Used (LRU) cache with 89.2% hit rate for random input with 4096 cache entries
 
 
 
