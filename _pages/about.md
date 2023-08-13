@@ -101,6 +101,19 @@ Click on the triangle for the description of each honor/award.
 
 <br />
 
+
+# Skills and Certifications
+- Languages: Python, C/C++, Java 
+- Frameworks & Libraries: PyTorch, HuggingFace, Scikit-learn, Numpy, Pandas, Matplotlib 
+- Tools & Software: LaTex, Postman, Git, Docker, EndNote 
+- Platforms: Amazon Web Services (AWS) 
+- Skills: Algorithm Design and Analysis, Software Development
+
+Certifications:
+
+Certified Peer Educator (CPE), National Association of Student Personnel Administrators (NASPA)     	      August 2022
+
+
 # News
 **April'23:** Awarded the [Outstanding Undergraduate Research Achievement][Outstanding Undergraduate Research Achievement].
 <br>
