@@ -103,7 +103,7 @@ Click on the triangle for the description of each honor/award.
 
 
 # Skills and Certifications
-- Languages: Python, C/C++, Java 
+- Languages: Python, C/C++, Java, HTML, CSS, JavaScript
 - Frameworks & Libraries: PyTorch, HuggingFace, Scikit-learn, Numpy, Pandas, Matplotlib 
 - Tools & Software: LaTex, Postman, Git, Docker, EndNote 
 - Platforms: Amazon Web Services (AWS) 
