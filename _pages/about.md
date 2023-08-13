@@ -16,15 +16,16 @@ In May 2023, I graduated from [Schreyer Honors College][SHC] at Penn State, wher
 
 
 # Research Interest
-I am interested in developing fundamentally trustworthy machine learning, focusing on correctness, robustness, fairness, and interpretability with mathematical guarantees. I am also interested in applying machine learning techniques to solve security problems, such as intrusion and malware detection.
+I am interested in developing machine learning that is fundamentally trustworthy. This involves ensuring properties such as correctness, robustness, privacy, fairness, and interpretability with mathematical guarantees.
 
-Lately, I have been investigating the tension/tradeoff between different trustworthiness objectives (e.g., security, privacy, fairness, transparency). Specifially, I am studying
+Lately, I have been investigating the tension/tradeoff between various trustworthiness objectives (e.g., security, privacy, fairness, transparency). Specifically, my focus was on studying
 
-- how model explanation relates to adversarial example generation
-- how explanation can be used to generate (attack) and detect (defense) adversarial examples
+- how model explanation relates to adversarial example generation?
+- how can explanation be utilized to generate (attack) and detect (defense) adversarial examples?
 
-Exploring these issues will provide guidelines to develop safe explainable machine learning system given the existence of adversaries.
+By exploring these issues, we can establish principles for constructing secure and transparent machine learning systems in the face of potential threats.
 
+I am also interested in addressing emerging challenges associated with large language models (LLMs), such as adversarial prompting.
 
 
 # Education
