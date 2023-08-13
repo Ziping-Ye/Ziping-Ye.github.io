@@ -110,8 +110,7 @@ Click on the triangle for the description of each honor/award.
 - Skills: Algorithm Design and Analysis, Software Development
 
 ## Certifications:
-
-[Certified Peer Educator (CPE)][Certified Peer Educator (CPE)], National Association of Student Personnel Administrators (NASPA)     	      August 2022
+[Certified Peer Educator (CPE)][Certified Peer Educator (CPE)], National Association of Student Personnel Administrators (NASPA)
 
 
 # News
