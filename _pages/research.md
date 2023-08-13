@@ -12,21 +12,24 @@ author_profile: true
 {% endfor %} -->
 
 
-- [Explanation Assisted Adversarial Example Generation](#explanation-assisted-adversarial-example-generation)
+- [Attacks Meet Interpretability (AmI) Evaluation](#attacks-meet-interpretability-ami-evaluation)
 - [Intrusion Detection for Cellular Network](#intrusion-detection-for-cellular-network)
 - [Landscape of Neural Network and Its Robustness](#landscape-of-neural-network-and-its-robustness)
 
 
 
-# Explanation Assisted Adversarial Example Generation
+# Attacks Meet Interpretability (AmI) Evaluation 
 
 :school: Penn State Prof. Mehnaz’s Lab <br>
 :woman_teacher: Advisor: [Shagufta Mehnaz][Shagufta Mehnaz] <br>
-:mantelpiece_clock: January 2023 - Present
+:mantelpiece_clock: January - August 2023
 
 
-- **Motivation**: Attackers can also access model explanations that facilitate transparent machine learning systems for critical decision-making and potentially launch more powerful attacks. I studied the tension between different goals (e.g., security, privacy, transparency) and planned to propose explanation-assisted attacks
-- Studied how model explanation can help adversary generate adversarial examples for malware classifiers and help defenders detect adversarial examples for image classification
+- **Motivation**: Attackers can exploit model explanations, initially intended to enhance transparency in machine learning systems, potentially empowering them to launch more powerful attacks. I investigated the application of model explanations in generating and detecting adversarial examples
+- Conducted experiments that revealed the limitations of a paper using model explanation to detect adversarial samples. (["Attacks Meet Interpretability: Attribute-Steered Detection of Adversarial Samples"][AmI])
+- Discovered a significant flaw in Nicholas Carlini's evaluation of the AmI model. (["Is AmI (Attacks Meet Interpretability) Robust to Adversarial Examples?"][NC_AmI])
+- Proposed and implemented a fair evaluation of AmI; Currently writing a report that covers our discoveries
+
 
 
 
@@ -65,3 +68,6 @@ author_profile: true
 
 [SyNSec Lab]: https://synsec-den.github.io/
 [CCMA]: https://ccma.math.psu.edu/
+
+[AmI]: https://proceedings.neurips.cc/paper_files/paper/2018/file/b994697479c5716eda77e8e9713e5f0f-Paper.pdf
+[NC_AmI]: https://arxiv.org/abs/1902.02322#:~:text=Is%20AmI%20(Attacks%20Meet%20Interpretability)%20Robust%20to%20Adversarial%20Examples%3F,-Nicholas%20Carlini&text=No.
