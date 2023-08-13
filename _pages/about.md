@@ -109,9 +109,9 @@ Click on the triangle for the description of each honor/award.
 - Platforms: GitHub, Amazon Web Services (AWS) 
 - Skills: Algorithm Design and Analysis, Software Development
 
-Certifications:
+## Certifications:
 
-Certified Peer Educator (CPE), National Association of Student Personnel Administrators (NASPA)     	      August 2022
+[Certified Peer Educator (CPE)][Certified Peer Educator (CPE)], National Association of Student Personnel Administrators (NASPA)     	      August 2022
 
 
 # News
@@ -138,3 +138,7 @@ Last update: August 13th, 2023
 [IMASS News]: https://www.psu.edu/news/schreyer-honors-college/story/new-student-organization-supports-multicultural-schreyer-scholars/
 [CoE Student Marshal News]: https://www.engr.psu.edu/commencement/student-marshals/spring-2023.aspx#Ye
 [Outstanding Undergraduate Research Achievement]: https://inclusion.engr.psu.edu/annual-awards/index.aspx
+
+
+[Certified Peer Educator (CPE)]: https://www.dropbox.com/scl/fi/vm1effekfq5i9zph2ery6/Ziping_Ye_CPE_Certificate.pdf?rlkey=kptryw4lgp0cark7k5a5tllgm&dl=0
+
