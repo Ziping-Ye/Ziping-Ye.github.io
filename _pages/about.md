@@ -114,7 +114,7 @@ Click on the triangle for the description of each honor/award.
 
 
 # News
-**September'23:** Our team won the [Best Design Hack at PennApps XXIV][ResearchRadar.ai]! ([Devpost][ResearchRadar.ai Devpost] | [GitHub][ResearchRadar.ai GitHub])
+**September'23:** Our team won the [Best Design Hack at PennApps XXIV][ResearchRadar.ai]! ([GitHub][ResearchRadar.ai GitHub])
 <br>
 **April'23:** Awarded the [Outstanding Undergraduate Research Achievement][Outstanding Undergraduate Research Achievement].
 <br>
@@ -140,7 +140,6 @@ Last update: August 13th, 2023
 [CoE Student Marshal News]: https://www.engr.psu.edu/commencement/student-marshals/spring-2023.aspx#Ye
 [Outstanding Undergraduate Research Achievement]: https://inclusion.engr.psu.edu/annual-awards/index.aspx
 [ResearchRadar.ai]: https://devpost.com/software/research-radar
-[ResearchRadar.ai Devpost]: https://devpost.com/software/research-radar
 [ResearchRadar.ai GitHub]: https://github.com/researchRadar-ai
 
 
