@@ -115,7 +115,9 @@ Click on the triangle for the description of each honor/award.
 
 # News
 **September'23:** Our team won the [Best Design Hack at PennApps XXIV][ResearchRadar.ai]! ([Devpost][ResearchRadar.ai Devpost] [GitHub][ResearchRadar.ai GitHub])
+<br>
 **April'23:** Awarded the [Outstanding Undergraduate Research Achievement][Outstanding Undergraduate Research Achievement].
+<br>
 **April'23:** Selected as the [College of Engineering Class of 2023 Student Marshal][CoE Student Marshal News] for Computer Science.
 <br>
 **January'23:** Served as the Founding President of the [International and Multicultural Association of Schreyer Scholars (IMASS)][IMASS]. Check [Penn State News][IMASS News] for details.
