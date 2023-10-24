@@ -114,8 +114,8 @@ Click on the triangle for the description of each honor/award.
 
 
 # News
+**September'23:** Our team won the [Best Design Hack at PennApps XXIV][ResearchRadar.ai]! ([Devpost][ResearchRadar.ai Devpost] [GitHub][ResearchRadar.ai GitHub])
 **April'23:** Awarded the [Outstanding Undergraduate Research Achievement][Outstanding Undergraduate Research Achievement].
-<br>
 **April'23:** Selected as the [College of Engineering Class of 2023 Student Marshal][CoE Student Marshal News] for Computer Science.
 <br>
 **January'23:** Served as the Founding President of the [International and Multicultural Association of Schreyer Scholars (IMASS)][IMASS]. Check [Penn State News][IMASS News] for details.
@@ -137,6 +137,9 @@ Last update: August 13th, 2023
 [IMASS News]: https://www.psu.edu/news/schreyer-honors-college/story/new-student-organization-supports-multicultural-schreyer-scholars/
 [CoE Student Marshal News]: https://www.engr.psu.edu/commencement/student-marshals/spring-2023.aspx#Ye
 [Outstanding Undergraduate Research Achievement]: https://inclusion.engr.psu.edu/annual-awards/index.aspx
+[ResearchRadar.ai]: https://devpost.com/software/research-radar
+[ResearchRadar.ai Devpost]: https://devpost.com/software/research-radar
+[ResearchRadar.ai GitHub]: https://github.com/researchRadar-ai
 
 
 [Certified Peer Educator (CPE)]: https://www.dropbox.com/scl/fi/vm1effekfq5i9zph2ery6/Ziping_Ye_CPE_Certificate.pdf?rlkey=kptryw4lgp0cark7k5a5tllgm&dl=0
